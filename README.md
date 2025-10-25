@@ -75,7 +75,7 @@ To improve Vrinda Shop’s sales performance:
 ## 🧾 Author
 
 **Rishabh Shukla**  
-🎓 B.Tech Civil Engineering, IIT (ISM) Dhanbad  
+🎓 B.Tech, Civil Engineering, IIT (ISM) Dhanbad  
 📧 [rishabhshukla9140@gmail.com](mailto:rishabhshukla9140@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rishabhshukla192/)  
 
